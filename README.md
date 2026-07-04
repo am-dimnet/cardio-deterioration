@@ -5,7 +5,6 @@ Multimodal Cardiovascular Risk Prediction**
 
 Reference PyTorch implementation.
 Repository: https://github.com/am-dimnet/cardio-deterioration
-Archived release DOI: [10.5281/zenodo.14508137](https://doi.org/10.5281/zenodo.14508137)
 
 ---
 
